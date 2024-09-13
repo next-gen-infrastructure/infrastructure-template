@@ -6,8 +6,8 @@ locals {
   stack_name    = "aws/example"
   stack_version = "main" # FIXME: Please update version if required
 
-  stack_host       = "git::git@github.com:cere-io"
-  stack_repository = "infra-terraform-modules"
+  stack_host       = "git::git@github.com:next-gen-infrastructure"
+  stack_repository = "terraform-modules"
 }
 
 # Terragrunt will copy the Terraform configurations specified by the source
