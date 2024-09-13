@@ -1,6 +1,6 @@
 # ---------------------------------------------------------------------------------------------------------------------
 # You can find details for this module at:
-# https://github.com/cere-io/infra-terraform-modules/src/main/
+# https://github.com/next-gen-infrastructure/infra-terraform-modules/src/main/
 # ---------------------------------------------------------------------------------------------------------------------
 locals {
   stack_name    = "aws/example"
